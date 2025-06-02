@@ -1,0 +1,6 @@
+google-genai
+tqdm
+streamlit
+Pillow
+dotenv
+json5
