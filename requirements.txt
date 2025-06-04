@@ -4,3 +4,4 @@ streamlit
 Pillow
 dotenv
 json5
+typing-extensions

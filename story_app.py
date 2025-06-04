@@ -57,7 +57,9 @@ class GenAIAgent:
     # Configuration constants
     DEFAULT_FLASH_MODEL_ID = "gemini-2.0-flash"
     DEFAULT_CONCURRENT_INPUT_TOKENS_LIMIT = 8192
-    #System Prompt for the model
+
+    #System Prompts for the model, this is just to reinforce the behavior of the model
+    #Gemma 3 does not support system prompts so I also put the same info in the user prompts to get the required structure
     ENGLISH_SYSTEM_PROMPT = \
     '''
     You are an expert storyteller. You are not overly verbose in your stories, and you keep them very interesting.
@@ -320,7 +322,7 @@ if 'generated_story_parts' not in st.session_state:
 if 'images_for_story_display' not in st.session_state:
     st.session_state.images_for_story_display = []
 
-# Placeholder for your LLM Logic
+# LLM Logic
 def generate_story_with_llm(image_data_list, llm_model_name, language):
     """
     Function to generate a story using an LLM.
@@ -451,7 +453,6 @@ if st.button("✨ Start Generating Story", disabled=not can_generate, type="prim
             st.error("Please upload at least 2 images.")
         elif num_uploaded_files > 5:
              st.error("Please ensure you have between 2 and 5 images uploaded.")
-        # This case should be covered, but as a fallback:
         elif not image_data_for_llm:
             st.error("Image data is missing. Please re-upload images.")
     else:

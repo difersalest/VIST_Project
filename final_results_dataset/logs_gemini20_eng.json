@@ -1,0 +1,4259 @@
+[
+  {
+    "album_id": "f95e07f0-a0a0-4cd2-8db2-fa9823f68b30",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 212,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.1
+    }
+  },
+  {
+    "album_id": "76dd0f6d-b076-41d3-8cf8-94fc4abb010f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 280,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.31
+    }
+  },
+  {
+    "album_id": "db3cba94-4f01-4174-8c66-24c6d801c1d5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 60,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.75
+    }
+  },
+  {
+    "album_id": "c7aa10d4-5a18-46ff-8b41-0fb2fccdd6d3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 326,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 15.32
+    }
+  },
+  {
+    "album_id": "9e97ce04-6231-40ed-b560-eff01f77c243",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 354,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 13.2
+    }
+  },
+  {
+    "album_id": "dc0f9730-a61a-4a9a-a4d2-bcab63f76de0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 343,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.61
+    }
+  },
+  {
+    "album_id": "1b7941f7-7a03-455c-9d28-fa812478b21b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 245,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.65
+    }
+  },
+  {
+    "album_id": "fcc76475-40a3-4fa9-9116-b856af6b25a4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 289,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 2.99
+    }
+  },
+  {
+    "album_id": "55eb5e21-b65b-463a-a067-613ad93411cc",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 202,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.44
+    }
+  },
+  {
+    "album_id": "16ef129a-9940-4940-abd6-b600a67888b5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 178,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.52
+    }
+  },
+  {
+    "album_id": "b6a9ee36-af16-4f9e-93e1-fbb1a38f1a65",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 246,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.12
+    }
+  },
+  {
+    "album_id": "6a656440-ce72-4acb-9dcb-995e7674155a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 217,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.39
+    }
+  },
+  {
+    "album_id": "13cc99f0-3ed5-404f-866c-a1e8c86e87d3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 296,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.46
+    }
+  },
+  {
+    "album_id": "6f4fc57c-2807-443f-952f-23dac9c8f382",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 339,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.71
+    }
+  },
+  {
+    "album_id": "cea3a365-7f96-4bb3-97c1-07fd0ecef3ca",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 359,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.33
+    }
+  },
+  {
+    "album_id": "2c727efc-865e-450f-97c0-68797385a195",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 206,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.07
+    }
+  },
+  {
+    "album_id": "002fbc8b-8158-4fbc-9963-3d3ea8e5eee1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 240,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.14
+    }
+  },
+  {
+    "album_id": "1c3aa054-579c-4c66-b2eb-eeecc3650d2b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 216,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.49
+    }
+  },
+  {
+    "album_id": "7ccbec4e-5faa-4f3e-9f66-5f36c822ae92",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 291,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.28
+    }
+  },
+  {
+    "album_id": "22ed543e-2f22-47ce-ba0e-ef556ac11483",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 320,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 14.93
+    }
+  },
+  {
+    "album_id": "4b91e5b0-5941-4455-89cf-8067386e8c10",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 248,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.7
+    }
+  },
+  {
+    "album_id": "847a3b56-312d-4713-9018-ddbd168813b9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 254,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 9.02
+    }
+  },
+  {
+    "album_id": "b6111e95-c74e-4c35-8c4d-c8b08e4b12ca",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 263,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.07
+    }
+  },
+  {
+    "album_id": "fd621d02-7d09-4763-b195-e1aed4e8bf25",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 153,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.34
+    }
+  },
+  {
+    "album_id": "432652a8-3250-40f0-8320-337a3ecc7194",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 114,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 11.28
+    }
+  },
+  {
+    "album_id": "4a8fc768-e97d-44b7-86f5-ad36920fb62c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 314,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.4
+    }
+  },
+  {
+    "album_id": "3dd377d7-a6f8-4c9e-8132-5c436ad06605",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 95,
+      "input_tokens": 1144,
+      "elapsed_time_sec": 2.53
+    }
+  },
+  {
+    "album_id": "8f725bee-6305-4814-892c-18a5eade6e8a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 263,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.31
+    }
+  },
+  {
+    "album_id": "6b7e20bf-4786-41e7-86a9-7ec36a85a8d8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 78,
+      "input_tokens": 3466,
+      "elapsed_time_sec": 3.68
+    }
+  },
+  {
+    "album_id": "8d5eb6d4-4a8b-4a25-bfd5-7d17ba4fecd6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 289,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.67
+    }
+  },
+  {
+    "album_id": "4f40bd91-799a-4397-8583-348828ca98ab",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 312,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 13.1
+    }
+  },
+  {
+    "album_id": "bae63e84-1048-4c1a-a4e4-f5568f4058ad",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 70,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 3.82
+    }
+  },
+  {
+    "album_id": "17843f74-0b94-41ba-9243-472d4a3298f2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 263,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.77
+    }
+  },
+  {
+    "album_id": "b6ae1de9-4da7-414c-8d03-0e6f472fca64",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 312,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.31
+    }
+  },
+  {
+    "album_id": "4bd6c7c0-261f-456c-a431-d0b9103df64e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 271,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.39
+    }
+  },
+  {
+    "album_id": "974a66bd-80af-4fb8-bd16-f8ff08edb374",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 259,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 9.46
+    }
+  },
+  {
+    "album_id": "817acc7c-fd0a-4f44-a462-7afcde9beacd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 313,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.67
+    }
+  },
+  {
+    "album_id": "45d6494c-ed30-4c4a-99e1-8f73f726f805",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 275,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.21
+    }
+  },
+  {
+    "album_id": "9077ced9-8d3d-45c5-ac04-12f3c399fc9e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 328,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.26
+    }
+  },
+  {
+    "album_id": "a1a2b995-e2ee-4a0d-945d-073898ac685e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 236,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.51
+    }
+  },
+  {
+    "album_id": "1e1488b8-519d-4591-89fa-34dd7ecd9137",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 211,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 9.29
+    }
+  },
+  {
+    "album_id": "56f8b6da-30ca-41b9-9514-67e792840d9d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 64,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 4.04
+    }
+  },
+  {
+    "album_id": "edd400af-cd6b-4039-87e7-95b65a4ae519",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 293,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.75
+    }
+  },
+  {
+    "album_id": "ed09c3ba-e1f2-441e-b46c-4a966f06d2dc",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 178,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.81
+    }
+  },
+  {
+    "album_id": "134a5f0a-741f-43c8-a1fe-d919f58d5415",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 361,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.39
+    }
+  },
+  {
+    "album_id": "1dda1cf5-50f4-433e-933a-2325bdc26dd6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 114,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.85
+    }
+  },
+  {
+    "album_id": "0165fd98-4a4d-4673-85af-a838e4c9bf03",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 127,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.42
+    }
+  },
+  {
+    "album_id": "63616433-9b1a-4eab-86c2-16853374bd25",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 69,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.7
+    }
+  },
+  {
+    "album_id": "5d910524-d718-49d1-a525-ec6b43790e89",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 302,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 18.78
+    }
+  },
+  {
+    "album_id": "3d16e0cb-2acc-43dd-8901-679fd4b2991a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 228,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 6.14
+    }
+  },
+  {
+    "album_id": "07ef241f-00b2-46b0-8df9-84262fa7f0b6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 60,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 3.28
+    }
+  },
+  {
+    "album_id": "89be28db-a366-4d2b-a74b-7f18e1fff0ec",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 246,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.0
+    }
+  },
+  {
+    "album_id": "fec78c45-35ee-4dba-8e7d-1ca6ac762059",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 84,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 3.2
+    }
+  },
+  {
+    "album_id": "944de88b-6af8-4b74-9bbf-1aa5c0a3a173",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 261,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.51
+    }
+  },
+  {
+    "album_id": "79664ca0-d7ed-440a-9b3a-dad6f8fe2155",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 92,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 3.1
+    }
+  },
+  {
+    "album_id": "0cd47ff6-97f9-458a-a9cd-ae5e7f6909fa",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 251,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 17.84
+    }
+  },
+  {
+    "album_id": "c31cb673-5703-44c5-bac7-3de16ebead36",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 348,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.11
+    }
+  },
+  {
+    "album_id": "381634a7-97f5-4df9-a510-53827fb038ca",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 67,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 3.63
+    }
+  },
+  {
+    "album_id": "fab228b6-cd5b-49f1-8887-806ba57e849c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 222,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.49
+    }
+  },
+  {
+    "album_id": "b01697b0-9a37-4400-980e-99a70b388179",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 271,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.51
+    }
+  },
+  {
+    "album_id": "25df0a0d-4a0e-4e32-a240-ca05b65048c4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 233,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.09
+    }
+  },
+  {
+    "album_id": "379bff20-e658-410f-8435-0fc6bab85941",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 204,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.07
+    }
+  },
+  {
+    "album_id": "48b70558-bf9b-4301-8242-a9f67363dc86",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 255,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.22
+    }
+  },
+  {
+    "album_id": "82721c3c-08a8-4177-b707-664bd5d836f7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 225,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.81
+    }
+  },
+  {
+    "album_id": "f51efdb0-3a77-4e08-80bb-32c909b1b652",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 203,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.52
+    }
+  },
+  {
+    "album_id": "3533324b-a4f5-47a1-99a8-5f8449088b9c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 311,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.96
+    }
+  },
+  {
+    "album_id": "e9da69d6-4ee6-4ed0-bc76-6f68452b354f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 311,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 7.75
+    }
+  },
+  {
+    "album_id": "3d082ee5-f5a9-4855-8eb4-6567711057be",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 221,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.03
+    }
+  },
+  {
+    "album_id": "565a2ab9-6e5d-4870-92d1-8dce8cc21d4b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 331,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.66
+    }
+  },
+  {
+    "album_id": "11d59576-46a1-41fc-bca5-9e0ac8a8afff",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 208,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.44
+    }
+  },
+  {
+    "album_id": "6d269896-39ca-424a-887b-10564217a172",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 15.72
+    }
+  },
+  {
+    "album_id": "822da848-b569-4a34-838c-2f514dc16d28",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 211,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.65
+    }
+  },
+  {
+    "album_id": "4bbe77fe-ad6c-4251-a49a-ef625845837b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 179,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 4.18
+    }
+  },
+  {
+    "album_id": "eb06a980-2fae-4683-abc0-2ec6cad99762",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 327,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.62
+    }
+  },
+  {
+    "album_id": "ba4b54b4-f791-4e1e-b841-f4a68e1a54dd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 227,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.75
+    }
+  },
+  {
+    "album_id": "2bd276ec-341c-4e18-b399-4e1623962c53",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.08
+    }
+  },
+  {
+    "album_id": "e5ef93cf-76a5-4387-8004-8e869199bcf3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 232,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.26
+    }
+  },
+  {
+    "album_id": "b536a788-b0df-46cd-927a-e525b795fb5f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 243,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.96
+    }
+  },
+  {
+    "album_id": "de274a58-6373-4879-81cc-0252eb205a07",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 86,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 3.42
+    }
+  },
+  {
+    "album_id": "f9adf1b7-9044-485b-b0b8-61e5bc5c4f7e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 305,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.31
+    }
+  },
+  {
+    "album_id": "442d5358-ff03-48d9-88f8-9e97bdca7ad9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 270,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.28
+    }
+  },
+  {
+    "album_id": "6081b4fd-61a5-4deb-89ca-e286b9b9466d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 355,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.48
+    }
+  },
+  {
+    "album_id": "ae5fd6fa-996e-46cc-8ea1-3a93c970b8a8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 226,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.39
+    }
+  },
+  {
+    "album_id": "12a12797-94ec-4d1e-ae72-cadc23c7bf07",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 190,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 9.25
+    }
+  },
+  {
+    "album_id": "43657317-7c79-460b-a0dd-b3c8f85765e5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 256,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.81
+    }
+  },
+  {
+    "album_id": "478318ac-4863-408e-97cc-7a25b3bbbdcd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 70,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.61
+    }
+  },
+  {
+    "album_id": "9888b413-e0e6-4a76-b127-a2a927349958",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 74,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 4.1
+    }
+  },
+  {
+    "album_id": "45c3857d-a78e-450f-8768-3a3b1ac2b79e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 315,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.26
+    }
+  },
+  {
+    "album_id": "16c15128-dd00-4ec2-acda-a262e19d73e1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 245,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.99
+    }
+  },
+  {
+    "album_id": "b58e45e4-5daf-404f-9bcf-709b03b5cff5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 347,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.58
+    }
+  },
+  {
+    "album_id": "c397c9f1-3f75-480d-a3aa-c80693fea4f1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 62,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.91
+    }
+  },
+  {
+    "album_id": "2ffd0ce5-0b85-49fd-b014-0e827e2960d4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 80,
+      "input_tokens": 3466,
+      "elapsed_time_sec": 4.22
+    }
+  },
+  {
+    "album_id": "57170760-8d5c-4dc2-bfcc-f3424b8ba05d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 131,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.03
+    }
+  },
+  {
+    "album_id": "e16470cf-9ae6-4d2c-a0ee-f8a1901c8b7c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 218,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 16.82
+    }
+  },
+  {
+    "album_id": "1221ed6d-ef0d-4e4d-a77a-b5d4c6a2e0c3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 357,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.73
+    }
+  },
+  {
+    "album_id": "b1439679-9798-460c-9325-164be38d11fa",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 211,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.3
+    }
+  },
+  {
+    "album_id": "1e5a1977-bdcc-4a64-811a-95ba1c4ca654",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 315,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.44
+    }
+  },
+  {
+    "album_id": "56588756-8356-4ce3-bee0-ff0e6b0f5866",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 303,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.56
+    }
+  },
+  {
+    "album_id": "64749b3b-8c90-480b-819a-2cf4862e8b8f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 273,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 18.72
+    }
+  },
+  {
+    "album_id": "48d66051-1e7b-40fa-a693-d2ac27271f6c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 161,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.43
+    }
+  },
+  {
+    "album_id": "daa91b24-05cf-45c5-ade9-d66c784df2d5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 256,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.33
+    }
+  },
+  {
+    "album_id": "7240693a-a62f-4adf-9552-8e00b1a22ba4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 60,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 5.76
+    }
+  },
+  {
+    "album_id": "0540ef9d-51cd-45b5-a30f-77722c6a753c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 131,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.48
+    }
+  },
+  {
+    "album_id": "fb01c1dc-2d27-46e5-a24d-34c0a9b5f837",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 85,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 5.07
+    }
+  },
+  {
+    "album_id": "983958a9-8e8c-438b-9781-65e960432bb3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 248,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.37
+    }
+  },
+  {
+    "album_id": "a581c70d-7336-46a3-90fc-0908b9ddbf64",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 238,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 7.0
+    }
+  },
+  {
+    "album_id": "120c0eaa-ccd7-489f-a153-4bfd5f48cd2a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 212,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.72
+    }
+  },
+  {
+    "album_id": "0e7bf136-c89d-471b-89f4-9816e694e953",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.93
+    }
+  },
+  {
+    "album_id": "b35f6c25-b24f-423a-b4ed-43a250e65d5d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 59,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 5.27
+    }
+  },
+  {
+    "album_id": "f0f9cf01-c2f7-46dc-b789-2ccf8fc965f9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 162,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.29
+    }
+  },
+  {
+    "album_id": "1a31ca27-5373-4ee2-b393-4eb1ce2b89a8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 315,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.53
+    }
+  },
+  {
+    "album_id": "45bf823f-fc55-4bc7-9873-74089681a5f2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 238,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.52
+    }
+  },
+  {
+    "album_id": "b7e2c48f-5cc6-45ed-a1fe-0082bfa484f0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 290,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 13.46
+    }
+  },
+  {
+    "album_id": "e44289ed-15cc-4b8b-9529-a749db5456a5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 229,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.7
+    }
+  },
+  {
+    "album_id": "220839d5-62be-4434-a617-de573e3dbcd3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 167,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.03
+    }
+  },
+  {
+    "album_id": "d064b124-0eab-4bf7-8344-e62b97f9e35b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 281,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.55
+    }
+  },
+  {
+    "album_id": "1154330f-2afe-47fe-8cca-a7497b882d4d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 283,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.29
+    }
+  },
+  {
+    "album_id": "c866dcab-bb7b-4874-99d6-413d98854007",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 262,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.87
+    }
+  },
+  {
+    "album_id": "f54a309b-10fd-45d5-a84d-02aeaefa5693",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 258,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 9.03
+    }
+  },
+  {
+    "album_id": "e7f08eac-40be-4ae8-b7f1-d7926ef1e4ba",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 303,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.31
+    }
+  },
+  {
+    "album_id": "a7d9d2ea-3653-4c1e-9657-bb25c0c46331",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 248,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.81
+    }
+  },
+  {
+    "album_id": "1d653cd0-7eaa-420f-86b4-57fa02b27461",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 193,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 8.5
+    }
+  },
+  {
+    "album_id": "3a01e972-c315-4213-8178-cd2cee223bf5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 310,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 9.48
+    }
+  },
+  {
+    "album_id": "a4dab146-a998-478a-bac7-36f6e760582b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 281,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.37
+    }
+  },
+  {
+    "album_id": "69602822-ce28-4611-ac84-7ee24a0fa34e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 224,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.0
+    }
+  },
+  {
+    "album_id": "1d8ac985-9eaa-4715-8320-7e95d2d5af25",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 131,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.98
+    }
+  },
+  {
+    "album_id": "99d41c76-1925-4974-8129-c3f686a5bed9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 324,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 8.34
+    }
+  },
+  {
+    "album_id": "02131d6c-ac71-4375-b923-5de3bddadb21",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 230,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.56
+    }
+  },
+  {
+    "album_id": "b5a64c34-0f7a-4243-be45-474c88cfac3a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 260,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 8.01
+    }
+  },
+  {
+    "album_id": "108607cf-3e2b-477f-ab22-95e82afd8025",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 244,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 17.24
+    }
+  },
+  {
+    "album_id": "f6c89f9e-8591-4d69-bee4-aaa7ba32e8ed",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 247,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.27
+    }
+  },
+  {
+    "album_id": "62756441-4866-4a25-8b40-a585a7b79601",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 328,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 7.08
+    }
+  },
+  {
+    "album_id": "5448dcde-4431-4608-9a0e-2ddc838346c5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 272,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.68
+    }
+  },
+  {
+    "album_id": "ad6b384d-f5a9-45ee-9c8a-60bee52d006a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 227,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.83
+    }
+  },
+  {
+    "album_id": "051dbc08-72b4-4fb4-868e-8ee94f272173",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 368,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.15
+    }
+  },
+  {
+    "album_id": "9504030d-2bb7-40ef-8b8d-3f75dda06c78",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 288,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.13
+    }
+  },
+  {
+    "album_id": "f585e03f-c0d8-4fc5-939c-9a5d924fe6ba",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 223,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.96
+    }
+  },
+  {
+    "album_id": "9d178de8-cba6-467c-b372-4eeb8a183dd0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 248,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.59
+    }
+  },
+  {
+    "album_id": "f6c97e91-6edb-4646-8455-02d21931940e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 217,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.42
+    }
+  },
+  {
+    "album_id": "3ede50fe-c9f5-4724-8acb-e57fdcafebe7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 123,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.69
+    }
+  },
+  {
+    "album_id": "647b33a5-0df9-4be6-85dd-4b8325e1726b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 188,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 8.47
+    }
+  },
+  {
+    "album_id": "800f7103-097f-4565-b046-1a03efd3c05e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 261,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 13.47
+    }
+  },
+  {
+    "album_id": "528ef81c-6571-4a66-9d85-e422cd2f90b9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 286,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 12.25
+    }
+  },
+  {
+    "album_id": "f5483621-d8c1-403c-a178-bbdcb8b55d78",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 318,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 15.92
+    }
+  },
+  {
+    "album_id": "638a6e53-926d-476a-b9b1-eeec34d3c42d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 84,
+      "input_tokens": 3466,
+      "elapsed_time_sec": 3.85
+    }
+  },
+  {
+    "album_id": "a9c6ec7e-f39e-403f-b050-cd271885f3bd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 288,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 17.15
+    }
+  },
+  {
+    "album_id": "16c99a53-3ce5-47c6-b782-204a7f5b88f8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 247,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.81
+    }
+  },
+  {
+    "album_id": "67be4958-33fa-45cd-b2f0-7d465bd6ef74",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 109,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 4.73
+    }
+  },
+  {
+    "album_id": "024cdef8-c2cb-421c-b181-4eb7a146c95e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 260,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.45
+    }
+  },
+  {
+    "album_id": "93b840bc-5a1a-4953-8b2f-57d67a61fef5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 352,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.81
+    }
+  },
+  {
+    "album_id": "cabc803b-b65a-42d8-a4aa-56eb20305a4a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 328,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 10.9
+    }
+  },
+  {
+    "album_id": "6e4d38d0-7d4a-4f5b-88fc-33b4492d85d3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 245,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.48
+    }
+  },
+  {
+    "album_id": "2583bed2-e7bb-48f8-8150-4bc774d6d0fc",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 169,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.87
+    }
+  },
+  {
+    "album_id": "b4c67412-511f-4e77-ad1a-027e22f9c6d8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 218,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 2.97
+    }
+  },
+  {
+    "album_id": "bf2f154f-580a-4475-a4d9-09649fbce567",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 176,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.31
+    }
+  },
+  {
+    "album_id": "b2ae1940-6542-46b5-8705-706b2183833e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 288,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.16
+    }
+  },
+  {
+    "album_id": "b5168f59-5483-422b-a4c4-a5f4a3e42bcb",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 286,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.28
+    }
+  },
+  {
+    "album_id": "0a92ed50-c6d3-434c-81e0-504fc8e5b3d4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 216,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.53
+    }
+  },
+  {
+    "album_id": "0c18ed4d-c863-4b7d-8b37-ed37656cdece",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 279,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 15.67
+    }
+  },
+  {
+    "album_id": "90997474-c891-4ebd-933a-24ea6bc17199",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 268,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.32
+    }
+  },
+  {
+    "album_id": "732a23b2-2f1a-4b2d-91b2-f3f1a373b3be",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 292,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.3
+    }
+  },
+  {
+    "album_id": "d21ab5c1-2e17-4211-b58d-4b745d2cb948",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 254,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.35
+    }
+  },
+  {
+    "album_id": "0eea7f34-81b7-4ec7-826f-c04f03ede9d5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 234,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 17.56
+    }
+  },
+  {
+    "album_id": "e909a537-b835-4124-9a6c-07df246a418f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 255,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.16
+    }
+  },
+  {
+    "album_id": "6815125a-d735-4426-8ec5-4e93bed65ec4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 238,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.03
+    }
+  },
+  {
+    "album_id": "a10523cc-f750-4a31-9cbe-857d6a6999ac",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 290,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.15
+    }
+  },
+  {
+    "album_id": "bf86d04b-86c6-4dce-bf79-861e07abafb0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 188,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.09
+    }
+  },
+  {
+    "album_id": "d8376629-f854-4892-a446-b281ca476157",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 273,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.89
+    }
+  },
+  {
+    "album_id": "4c950370-e165-464d-860f-f7a53900f5e2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 244,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.33
+    }
+  },
+  {
+    "album_id": "32a76ef1-9d22-4d62-a978-d5f665029697",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 316,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.32
+    }
+  },
+  {
+    "album_id": "7444be3c-0bc2-4e62-b734-2d4d797f83af",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 82,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 2.87
+    }
+  },
+  {
+    "album_id": "f49f33de-7cb0-4b61-a59e-f855ac18b304",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 270,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.11
+    }
+  },
+  {
+    "album_id": "a1500975-1a18-4d02-bc2a-7a0f2e0ed89f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 180,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.58
+    }
+  },
+  {
+    "album_id": "c389b427-c685-47fe-add6-db82056b408b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 289,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.57
+    }
+  },
+  {
+    "album_id": "31160d93-b958-49ea-8bac-34a7d82e3530",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 204,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.89
+    }
+  },
+  {
+    "album_id": "14a55165-5d3b-492a-a6c5-37d50b8e7b45",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 298,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.5
+    }
+  },
+  {
+    "album_id": "41518855-a916-44a8-a99b-08cb36603731",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 289,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.89
+    }
+  },
+  {
+    "album_id": "170a2501-6ddc-478d-b274-02b2b55a0b1b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 290,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.06
+    }
+  },
+  {
+    "album_id": "72bb887e-bf1b-4f4c-b285-a18cd6a154b2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 191,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.29
+    }
+  },
+  {
+    "album_id": "71d5f2e2-be26-4e56-9f0d-7bb95d399d36",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 388,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 10.94
+    }
+  },
+  {
+    "album_id": "fe983323-99ca-4109-817c-b988cc9aca12",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 344,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.92
+    }
+  },
+  {
+    "album_id": "0700776a-e676-4f0d-9882-34a82881fc1f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 325,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 19.79
+    }
+  },
+  {
+    "album_id": "7833d35d-0490-41d1-b87f-21bc0cbaa927",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 297,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.13
+    }
+  },
+  {
+    "album_id": "57f54e2c-4329-4558-ae2d-03ee72e518d4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 120,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.61
+    }
+  },
+  {
+    "album_id": "60451ef3-a271-4316-a346-2ab5761d1823",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 418,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 7.31
+    }
+  },
+  {
+    "album_id": "9c7d7551-04f8-42af-af00-20231d98e0a4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 363,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.06
+    }
+  },
+  {
+    "album_id": "cb2b5ce3-bc7f-4464-b0fa-d6491b0ddc35",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 269,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.68
+    }
+  },
+  {
+    "album_id": "da48617f-15af-4317-a63e-9c4ae46bb9a5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 341,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.35
+    }
+  },
+  {
+    "album_id": "3d7d54af-26ea-4d2c-b3f8-791db60fb2dc",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 237,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.69
+    }
+  },
+  {
+    "album_id": "6d46b06b-7d78-456f-aef3-e870a39ece96",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 199,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 5.82
+    }
+  },
+  {
+    "album_id": "eafca4bb-e579-49ac-9b54-a2edf873f16f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 209,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.27
+    }
+  },
+  {
+    "album_id": "dec9e197-5f9e-4af3-acff-2374d8a0e68f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 218,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 2.67
+    }
+  },
+  {
+    "album_id": "0f5e7a05-3302-4a6d-8f56-d1ea8ddb9893",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 361,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 10.06
+    }
+  },
+  {
+    "album_id": "448aec97-0d83-47ba-861a-97504cfd888d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 221,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.76
+    }
+  },
+  {
+    "album_id": "d1e65c7d-4cb6-450b-9698-d1386644a5bf",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 305,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.54
+    }
+  },
+  {
+    "album_id": "baa49123-5925-45fa-ae89-70fc6dab9099",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 201,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 16.96
+    }
+  },
+  {
+    "album_id": "e17628c6-a5b2-4471-8de7-1e1307ca3a52",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 263,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.72
+    }
+  },
+  {
+    "album_id": "30285d88-0e95-4af5-8fa9-bb32e42653ce",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 64,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.36
+    }
+  },
+  {
+    "album_id": "4812f039-7782-41ae-83de-42454f8580fb",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 395,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.14
+    }
+  },
+  {
+    "album_id": "908a7e6e-d1b6-4ae7-85d3-fdeeed5207e4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 236,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.68
+    }
+  },
+  {
+    "album_id": "58724217-b2aa-4bf8-a396-4c6c8e7b20e8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 421,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.42
+    }
+  },
+  {
+    "album_id": "b963867d-cfb8-4098-baac-e81841ed8ace",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 380,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 20.28
+    }
+  },
+  {
+    "album_id": "67234614-d94c-41b0-add0-807ef709391b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 241,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 8.28
+    }
+  },
+  {
+    "album_id": "a613c417-125c-41af-a815-2dd13bf679b5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 258,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.79
+    }
+  },
+  {
+    "album_id": "e5891575-59b8-49be-b3e3-64814e4cb708",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 166,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 9.6
+    }
+  },
+  {
+    "album_id": "b302f781-ae1d-48fd-86a7-8f6c3c5fc7ac",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 199,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.12
+    }
+  },
+  {
+    "album_id": "172c4862-107f-466b-a8fb-5624b41862af",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 302,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.72
+    }
+  },
+  {
+    "album_id": "21ae4d74-1b38-47ee-bd3f-78f5d68cbbb1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 205,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.14
+    }
+  },
+  {
+    "album_id": "7c9f856e-856e-42e0-9840-000da4d8ab1f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 200,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.65
+    }
+  },
+  {
+    "album_id": "46984060-d715-4dea-8119-7b51bd6c95fd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 271,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 20.13
+    }
+  },
+  {
+    "album_id": "41823cf5-9459-4c04-83bc-7c6fe5eff084",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 122,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 1.81
+    }
+  },
+  {
+    "album_id": "334b493e-65fa-4319-93d5-e1091f3ebef3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 419,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.75
+    }
+  },
+  {
+    "album_id": "38ee2bb3-1cf2-4746-9e57-e077ffc6c987",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 78,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 3.14
+    }
+  },
+  {
+    "album_id": "002ae01a-572d-4702-9b2b-a279b2296d2a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 237,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 5.52
+    }
+  },
+  {
+    "album_id": "6d5872e7-5be6-4fab-ab71-006b2294f999",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 185,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 4.54
+    }
+  },
+  {
+    "album_id": "13c2a11c-4eee-400c-b58d-e2b8e3b80f84",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.03
+    }
+  },
+  {
+    "album_id": "d354b1ca-803c-4497-b0a0-00d3672acb29",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 288,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.38
+    }
+  },
+  {
+    "album_id": "530b004c-3dd3-41d0-8361-50a0e7e22f5a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 215,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.5
+    }
+  },
+  {
+    "album_id": "2fa35f62-a78e-4342-a5a7-187f31b7d222",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 201,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 8.31
+    }
+  },
+  {
+    "album_id": "5bd07e42-e8b4-4daf-9a43-137cbb3fe6cf",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 337,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.26
+    }
+  },
+  {
+    "album_id": "733c1791-30e4-4068-bfa3-eb7f36abba90",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 258,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.92
+    }
+  },
+  {
+    "album_id": "2044d6e4-b9ca-4890-b016-6cf7e6cab4be",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 387,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 18.28
+    }
+  },
+  {
+    "album_id": "18867d39-0c12-42b4-9c2e-f8971c8e5702",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 356,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.58
+    }
+  },
+  {
+    "album_id": "15b58a86-9fd8-4569-b945-d3df46bdb4bd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 344,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.55
+    }
+  },
+  {
+    "album_id": "fbc876c2-01da-4f94-9714-21d4a6c75442",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 276,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.63
+    }
+  },
+  {
+    "album_id": "9c1d60d7-a705-4d5f-a1a1-298a4a8da028",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 163,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.39
+    }
+  },
+  {
+    "album_id": "28955a20-45d3-434e-a5a4-7d4893b0e0cc",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 114,
+      "input_tokens": 1144,
+      "elapsed_time_sec": 1.6
+    }
+  },
+  {
+    "album_id": "168c127e-ba8e-42df-b9fe-ceeb25abf75a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 201,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.22
+    }
+  },
+  {
+    "album_id": "f5475550-7fc8-4c36-b1cc-5bdda7a94116",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 178,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 11.0
+    }
+  },
+  {
+    "album_id": "d6fa1540-9d8c-4fef-9963-df12ea95cb8a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 214,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.75
+    }
+  },
+  {
+    "album_id": "365591b2-687d-4138-8dc9-09e5e90d694d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 319,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 22.81
+    }
+  },
+  {
+    "album_id": "e083b139-9a3f-4656-b5e3-f0b726a9106d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 297,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.76
+    }
+  },
+  {
+    "album_id": "a15ffa52-c3d8-4636-9e74-4f03b22214ae",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 157,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 10.22
+    }
+  },
+  {
+    "album_id": "63538217-ebe0-44e6-b44f-0252de98056e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 356,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.87
+    }
+  },
+  {
+    "album_id": "c5f0b380-9213-4000-9581-6d66d7eec3f7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 244,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.37
+    }
+  },
+  {
+    "album_id": "f3536588-4173-4240-9321-0f221c328ab0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 246,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.18
+    }
+  },
+  {
+    "album_id": "26cbecac-58c2-43ed-af16-81de777f9684",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 257,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 17.84
+    }
+  },
+  {
+    "album_id": "4352061e-8e46-4792-991e-14e0be3587ef",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 200,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.53
+    }
+  },
+  {
+    "album_id": "24d67c3e-4151-42c8-b875-582846e3bcce",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 266,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.91
+    }
+  },
+  {
+    "album_id": "ecf044eb-6966-4a3f-a006-fee59a242cc5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 122,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.54
+    }
+  },
+  {
+    "album_id": "e3da18a5-5852-4dbf-9db5-63f437a206cf",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 243,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.16
+    }
+  },
+  {
+    "album_id": "241d3d07-8f9b-40e9-972b-381fbe8fac0c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 228,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.5
+    }
+  },
+  {
+    "album_id": "a8742d8c-11e6-4497-8035-ec43dac0a262",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 215,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 12.59
+    }
+  },
+  {
+    "album_id": "3873e1bc-cfa2-43ae-9fa1-56a7d36b9473",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 194,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.76
+    }
+  },
+  {
+    "album_id": "5e2b6b20-1849-4967-81f1-ca0a0b5a0ccd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 85,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 2.5
+    }
+  },
+  {
+    "album_id": "9c6534dd-d3f2-483c-a783-c89dbf73186a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 232,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.52
+    }
+  },
+  {
+    "album_id": "45daa5e5-123e-4107-a880-35b4bbbd3a04",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 198,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 14.65
+    }
+  },
+  {
+    "album_id": "891f2a00-1050-4f53-a1b9-4ae05d09d961",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 180,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.93
+    }
+  },
+  {
+    "album_id": "8446388f-7b37-4bd5-8c2f-6989df6f7629",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 128,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.4
+    }
+  },
+  {
+    "album_id": "6c739188-4353-4858-8d7d-807023f1c88c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 337,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 9.26
+    }
+  },
+  {
+    "album_id": "3a2c9254-8db6-4a3b-9991-d1bfc1c90b0f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 297,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.88
+    }
+  },
+  {
+    "album_id": "00698270-9a36-420b-9ad4-134760d86794",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 258,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.32
+    }
+  },
+  {
+    "album_id": "ca8e400a-7d03-44b7-a89c-d167f9d7cf98",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 235,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 7.54
+    }
+  },
+  {
+    "album_id": "6cf08f9c-fcbc-4e44-b756-7075a51e855e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 500,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.52
+    }
+  },
+  {
+    "album_id": "dcce077e-31ff-4ff4-a8e8-3d2827e65fd0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 286,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 7.95
+    }
+  },
+  {
+    "album_id": "2ad0c2d0-86b2-4a08-abf3-aa0da99ebf5a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 354,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.32
+    }
+  },
+  {
+    "album_id": "9ab12684-64ef-4fc2-b32b-25d2e63db158",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 325,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.02
+    }
+  },
+  {
+    "album_id": "fe16f48d-9227-4905-bfda-a849be0fd553",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 212,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.41
+    }
+  },
+  {
+    "album_id": "8bd97c74-045a-4c7d-a001-573d04ff95ed",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 119,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.1
+    }
+  },
+  {
+    "album_id": "a495f9db-590f-40d7-9788-023f0ad3d046",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 300,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.08
+    }
+  },
+  {
+    "album_id": "f599d3a9-6574-41b6-8e04-768c6c922c7c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 115,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.3
+    }
+  },
+  {
+    "album_id": "cf307ea6-2b0c-41d5-9d91-ef4790f22b19",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 309,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 14.26
+    }
+  },
+  {
+    "album_id": "bf30815e-1747-401d-b820-5b9df4846591",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 237,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.75
+    }
+  },
+  {
+    "album_id": "edfae96d-b2d2-4325-ad9b-4d1799a3ab1b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 354,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 15.81
+    }
+  },
+  {
+    "album_id": "683c5a60-c5ad-4bd9-a93f-9efcfb9475d9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 290,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.27
+    }
+  },
+  {
+    "album_id": "70f2c4cd-826e-4c81-8e4a-133509f64800",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 172,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.65
+    }
+  },
+  {
+    "album_id": "2a0717d3-bb2b-47f3-94b6-5598f2bbc5ff",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 321,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.46
+    }
+  },
+  {
+    "album_id": "a62baffe-6a13-4402-b6e4-d63da6c7a005",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 140,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.9
+    }
+  },
+  {
+    "album_id": "b721558a-d457-45a6-a450-d1114cfe66b9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 104,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 3.49
+    }
+  },
+  {
+    "album_id": "f0bc6187-6294-46d8-861f-1f9ceef1ceec",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 251,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.43
+    }
+  },
+  {
+    "album_id": "1df5fa32-758a-4f99-ac9b-bea68c6ca190",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 138,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.35
+    }
+  },
+  {
+    "album_id": "40636efd-b3ba-40c5-9c34-9ff4a70731ce",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 245,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.11
+    }
+  },
+  {
+    "album_id": "a414aa18-c162-486b-bc20-707f259f9ad5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 102,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.31
+    }
+  },
+  {
+    "album_id": "87464f95-3457-4701-a347-0e6c7c3396ad",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 167,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.98
+    }
+  },
+  {
+    "album_id": "4c2e2483-6b52-4247-bea3-f69b068f918c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 236,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.3
+    }
+  },
+  {
+    "album_id": "ea71d028-db54-4ca0-95c6-ed5bf8233baa",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 79,
+      "input_tokens": 3208,
+      "elapsed_time_sec": 6.86
+    }
+  },
+  {
+    "album_id": "f72eda7a-5af2-4f96-a5fb-301695b942d2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 282,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.12
+    }
+  },
+  {
+    "album_id": "47286bde-60bd-4b04-8787-b1e910fa7c27",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 243,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.64
+    }
+  },
+  {
+    "album_id": "e5aba6df-edaf-4d17-b65b-18dd832aa40c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 279,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.34
+    }
+  },
+  {
+    "album_id": "10f01a71-5d5c-4a6e-bfa3-6cfaa2da4e27",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 231,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 8.25
+    }
+  },
+  {
+    "album_id": "9925c316-2699-4804-998c-1d759289e06d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 269,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 6.94
+    }
+  },
+  {
+    "album_id": "fef00406-72d9-43f9-aa20-e55d024aa497",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 223,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.32
+    }
+  },
+  {
+    "album_id": "34c54b1e-1c73-4da5-83ef-9476aebf73fe",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 272,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.14
+    }
+  },
+  {
+    "album_id": "018ad02d-cfb1-4906-a98b-e18f112a7050",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 240,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.8
+    }
+  },
+  {
+    "album_id": "b1e41655-7565-4aff-b1fa-d037e22af6ab",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 182,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.09
+    }
+  },
+  {
+    "album_id": "99e8102f-96f4-4018-86d3-73ade614a848",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.9
+    }
+  },
+  {
+    "album_id": "ebe81b21-6982-4998-ba4c-aa4868fbc02c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 228,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.32
+    }
+  },
+  {
+    "album_id": "51dadc5d-1170-437b-b255-64eab9956175",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 204,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.89
+    }
+  },
+  {
+    "album_id": "70abef34-5cd2-40df-a980-def36126f20c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 267,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.51
+    }
+  },
+  {
+    "album_id": "78702a3f-d18a-4800-ba5a-a007907d877b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 263,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.38
+    }
+  },
+  {
+    "album_id": "7f77f58f-ce72-4a77-a9fe-fd2536e82874",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 68,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 3.0
+    }
+  },
+  {
+    "album_id": "1fa6ba0f-c0ff-42d4-a0f7-8b7423bb6de3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 250,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.38
+    }
+  },
+  {
+    "album_id": "70ae0450-722f-4329-95fc-13c52a704c86",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 290,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.48
+    }
+  },
+  {
+    "album_id": "8e102d8d-c2b3-432b-bc21-ce867982d8e7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 321,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 16.73
+    }
+  },
+  {
+    "album_id": "8e1dd73d-8daa-45fc-a529-8a3e50b5a1de",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 367,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.54
+    }
+  },
+  {
+    "album_id": "1cf66e6a-9cab-45be-bdbc-e8c9a50c9469",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 183,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 12.6
+    }
+  },
+  {
+    "album_id": "92409b8c-5de4-41d7-af11-26d39a55273e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 319,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 14.37
+    }
+  },
+  {
+    "album_id": "1a707ac0-1aa6-4c2b-8265-646ffc1e116a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 289,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.91
+    }
+  },
+  {
+    "album_id": "002276a0-8bac-4813-80d2-794475d68d79",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 208,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.78
+    }
+  },
+  {
+    "album_id": "90768cfc-1b04-45f7-b6d0-2f09b6252657",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 163,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.43
+    }
+  },
+  {
+    "album_id": "cb3b537d-3bd9-4dd7-b8c4-17a1926a2402",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 69,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 2.83
+    }
+  },
+  {
+    "album_id": "8f65b064-e694-41eb-9ed9-d9f9d2f3a1b8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 310,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.69
+    }
+  },
+  {
+    "album_id": "c32c4c12-7aaa-4f93-b7b0-5940b94981c6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 311,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 11.33
+    }
+  },
+  {
+    "album_id": "7db0d481-3fb5-4f0e-bef6-afe45a6adb1b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 180,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.75
+    }
+  },
+  {
+    "album_id": "5f6ae62b-8fcb-4be4-8699-88e9313c40bd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 283,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 20.22
+    }
+  },
+  {
+    "album_id": "1aedcd59-144e-485c-bd0c-de02ce769963",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 101,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 3.29
+    }
+  },
+  {
+    "album_id": "20aa79c4-add9-49c8-868b-8ac2915143b8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 438,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 11.44
+    }
+  },
+  {
+    "album_id": "dfa91166-7494-4daa-b1e1-7fc9262da11f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 214,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.46
+    }
+  },
+  {
+    "album_id": "58019154-3225-433e-a92d-e2bc6d3ebc84",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 361,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.14
+    }
+  },
+  {
+    "album_id": "7d1f4f94-c825-43f8-8076-08dd5e5b202b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 108,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.29
+    }
+  },
+  {
+    "album_id": "d3c1c210-b971-44e2-8a6d-b9974653d1f3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 204,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.04
+    }
+  },
+  {
+    "album_id": "3ab2b12f-6bac-4965-b6a9-f489c481f6d5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 260,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.17
+    }
+  },
+  {
+    "album_id": "e4cbe53d-58b6-48db-84f5-0950c4bd5051",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 305,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.26
+    }
+  },
+  {
+    "album_id": "60535901-9bda-443c-82fa-1fff997334e5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 209,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.86
+    }
+  },
+  {
+    "album_id": "5dd87d82-f545-4bbb-8ff9-a1e92d438c1f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 63,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 3.1
+    }
+  },
+  {
+    "album_id": "2b1842d8-0424-4888-ab4b-c5366f72a4b7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 205,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.06
+    }
+  },
+  {
+    "album_id": "2b1727fd-6c76-43ad-8a9a-11fa4ee40770",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 85,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 3.52
+    }
+  },
+  {
+    "album_id": "1530277b-cdf5-49f3-bc2b-e6bce0671c65",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.62
+    }
+  },
+  {
+    "album_id": "ead5786e-5def-4a69-aea0-c310b11e4cff",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 187,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.68
+    }
+  },
+  {
+    "album_id": "f610557e-5714-4708-b3ba-36c9e69aade7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 272,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.98
+    }
+  },
+  {
+    "album_id": "c6565e86-9196-4bab-b415-fc50a13f4817",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 227,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.36
+    }
+  },
+  {
+    "album_id": "31172e3a-c424-4d89-b30f-59be14419b37",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 187,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.75
+    }
+  },
+  {
+    "album_id": "aea52e97-303d-4591-8ace-aa262404f60e",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 253,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 7.16
+    }
+  },
+  {
+    "album_id": "559e43fd-ab51-425f-b96f-54fecd2b74d2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 84,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.34
+    }
+  },
+  {
+    "album_id": "d6a82160-8579-4515-8cb5-6d7fc2b5cab7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 162,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.64
+    }
+  },
+  {
+    "album_id": "070f49d8-91ce-4fdd-be01-e021515e5e8b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 348,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.59
+    }
+  },
+  {
+    "album_id": "be72a14f-4490-4a89-add3-a38f4e395aac",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 308,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.46
+    }
+  },
+  {
+    "album_id": "0fe41766-8e0a-4197-a7e9-d1fd2b913589",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 197,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 12.28
+    }
+  },
+  {
+    "album_id": "8b60ae03-105a-4ee8-a278-ed9924cb5703",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 186,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.81
+    }
+  },
+  {
+    "album_id": "cbc2ec32-423e-4a0e-b3c7-3c099ce8c4e3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 322,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.76
+    }
+  },
+  {
+    "album_id": "47c282ec-b4cc-4aa2-b0cb-2188b82c6f05",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 349,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.17
+    }
+  },
+  {
+    "album_id": "a099d4c7-fe6d-4624-a9c1-0a2f34a670b8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 198,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.78
+    }
+  },
+  {
+    "album_id": "96b7067c-54f5-4769-a3ac-508492eb7df7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 267,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 9.32
+    }
+  },
+  {
+    "album_id": "f924e571-a1e4-4177-b72c-16e16b5166cd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 310,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.59
+    }
+  },
+  {
+    "album_id": "1d3ed7e7-2e96-4451-ba70-dbb2b7369a33",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 322,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.86
+    }
+  },
+  {
+    "album_id": "3bcf2153-7ae7-4ba6-a7f0-00085f1e9dbd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 205,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.45
+    }
+  },
+  {
+    "album_id": "5a775dec-ba88-470a-b73e-c2617ee658bb",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 107,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.84
+    }
+  },
+  {
+    "album_id": "81b79d28-7dc0-4731-9d81-d9551dc70e38",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 218,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 5.06
+    }
+  },
+  {
+    "album_id": "e6382be7-2c7f-49bc-8fa8-8e6c5ccb2ce9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 208,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 11.26
+    }
+  },
+  {
+    "album_id": "deb07bb3-4ae4-4e7e-920e-21cca73d3158",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 66,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 3.16
+    }
+  },
+  {
+    "album_id": "1d65f156-0a43-4043-9e94-3092b92036fb",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 200,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.34
+    }
+  },
+  {
+    "album_id": "8dcb6089-baff-4277-8161-d72991740092",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 239,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 11.54
+    }
+  },
+  {
+    "album_id": "edd2b928-b75f-4c9b-ab4d-975342b28b8b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 311,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 10.56
+    }
+  },
+  {
+    "album_id": "3bf0f348-faad-47cc-8332-a675ffeaf3e5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 263,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.79
+    }
+  },
+  {
+    "album_id": "31aec1cc-f597-40e4-95c0-4b14bb130ff1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 94,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 2.67
+    }
+  },
+  {
+    "album_id": "572daf9f-2eff-4e1a-8d4e-572981a55d79",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 309,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.8
+    }
+  },
+  {
+    "album_id": "a4ff926d-16c5-4527-9e97-20563f868e08",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 394,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.67
+    }
+  },
+  {
+    "album_id": "c52f029c-dc26-4369-bcf5-c74fed22f53d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 246,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.27
+    }
+  },
+  {
+    "album_id": "1826dbc9-64f8-44f4-a475-9ab4a1e40ba8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 151,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.7
+    }
+  },
+  {
+    "album_id": "522a1d1e-0738-484c-be7e-19e463b75b12",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 406,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.13
+    }
+  },
+  {
+    "album_id": "5b9a223d-4e12-439c-8ea5-936cc4a8edb2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 257,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.29
+    }
+  },
+  {
+    "album_id": "f1b8798a-c4c3-4132-850a-113eac44c587",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 173,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.81
+    }
+  },
+  {
+    "album_id": "17dc53b7-21d2-4555-8247-fc2d0a06ad1b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 253,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 5.01
+    }
+  },
+  {
+    "album_id": "bea9e526-42f2-417b-a9ca-af2ba307dad9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 254,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 14.55
+    }
+  },
+  {
+    "album_id": "bb8c1f6d-3cdd-4276-abfa-3bd662b5f48b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 273,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 10.49
+    }
+  },
+  {
+    "album_id": "29e9f5d3-99f8-4459-8127-61766846958c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 67,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.84
+    }
+  },
+  {
+    "album_id": "1e406122-9013-4547-87c1-415469448dad",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 82,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 2.97
+    }
+  },
+  {
+    "album_id": "7048929f-e89d-4e17-88c2-d86fed75c5dd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 148,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.59
+    }
+  },
+  {
+    "album_id": "c2141217-2ef9-4de6-a98f-f4606d3a2515",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 195,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 16.98
+    }
+  },
+  {
+    "album_id": "c9ef838d-e3ea-4430-92b0-4f7bde822ad9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 216,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.36
+    }
+  },
+  {
+    "album_id": "6556a6ef-ecf5-41dc-b1a6-02854b9112c9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 218,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.19
+    }
+  },
+  {
+    "album_id": "856859e8-45f8-430a-9666-d9a731ad1f38",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 243,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 7.75
+    }
+  },
+  {
+    "album_id": "83b40a1a-d416-430a-b76e-59cd7a8005eb",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 330,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.86
+    }
+  },
+  {
+    "album_id": "85e2c11d-3d1d-47f1-8f16-6e9db839b6cf",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 201,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 11.29
+    }
+  },
+  {
+    "album_id": "df1082fd-bbc0-4f78-9d9a-df8e9513e8bf",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 352,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.75
+    }
+  },
+  {
+    "album_id": "851d00e1-acd1-44f0-95a6-4d31b56aecc0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 377,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 12.43
+    }
+  },
+  {
+    "album_id": "5f4d7e88-445b-4a14-adae-d5350154c0c1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 323,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 14.03
+    }
+  },
+  {
+    "album_id": "43e7826d-2145-4f00-8f9a-615f6e875c4a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 222,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 10.17
+    }
+  },
+  {
+    "album_id": "4b029818-295d-4dd2-a875-7825a2c67f5a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 137,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.08
+    }
+  },
+  {
+    "album_id": "153e47ee-e869-4f29-b018-67fc75a58ac9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 294,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.61
+    }
+  },
+  {
+    "album_id": "ef98d49f-302a-4a7c-99e7-aa2635e1ee94",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 106,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 5.18
+    }
+  },
+  {
+    "album_id": "c45d1019-25d5-464c-b5f8-001eced37cf5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 275,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.57
+    }
+  },
+  {
+    "album_id": "1510f630-15b6-4f2a-88c4-b80004fb5d51",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 298,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.63
+    }
+  },
+  {
+    "album_id": "88684a12-9d0a-474e-b55d-fb728f339a8f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 202,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.3
+    }
+  },
+  {
+    "album_id": "5d883fa0-c40c-42fd-be7a-01af5f4d86cb",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 150,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 2.36
+    }
+  },
+  {
+    "album_id": "850e8a56-0c2b-4636-801f-c8c99d1aa420",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 71,
+      "input_tokens": 1660,
+      "elapsed_time_sec": 2.47
+    }
+  },
+  {
+    "album_id": "90f986fd-be2f-4b91-8e6f-0081dde27053",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 177,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.58
+    }
+  },
+  {
+    "album_id": "85279cc9-e4bd-4698-9f7a-490238f77229",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 197,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 11.89
+    }
+  },
+  {
+    "album_id": "69263712-e15b-402b-80fa-36c0190041b0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 225,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.76
+    }
+  },
+  {
+    "album_id": "6fd7fe52-b7c6-4773-bd10-da67398fe84f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 114,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.54
+    }
+  },
+  {
+    "album_id": "3c1e9614-1ef4-4aee-b629-85dddf1071ef",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 71,
+      "input_tokens": 3466,
+      "elapsed_time_sec": 4.0
+    }
+  },
+  {
+    "album_id": "529f749e-b450-4823-9962-a3ea7788f817",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 198,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.91
+    }
+  },
+  {
+    "album_id": "994665c0-936c-4c64-abb8-a99cc72d6aa4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 181,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 9.78
+    }
+  },
+  {
+    "album_id": "a154146a-1e74-47f0-a7c8-f2ae53ea9535",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 351,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.25
+    }
+  },
+  {
+    "album_id": "1fea3c41-2713-4834-8472-3994d80d68fa",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 321,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.14
+    }
+  },
+  {
+    "album_id": "89e17ec7-7de1-4efb-9138-df15425f75be",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 211,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.87
+    }
+  },
+  {
+    "album_id": "e3bf17d5-7b1c-4b9d-a402-b2acace543e0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 105,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 4.31
+    }
+  },
+  {
+    "album_id": "a6b19495-5723-4564-879b-fa5e1184337f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 258,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.82
+    }
+  },
+  {
+    "album_id": "b1ba282f-12d6-4596-8798-09e44a527cd8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 171,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.57
+    }
+  },
+  {
+    "album_id": "3b9f91b1-5194-44fc-8744-621a3d7f0d7c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 306,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.35
+    }
+  },
+  {
+    "album_id": "eded98fb-d540-4a76-b02d-6a8c6fd37b5c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.84
+    }
+  },
+  {
+    "album_id": "2c76497b-0e4b-4e37-8497-d25f6fc26e54",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 175,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 6.22
+    }
+  },
+  {
+    "album_id": "bd8bcbf1-9ef0-4e0c-a1ff-2ebe7056c125",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 234,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.32
+    }
+  },
+  {
+    "album_id": "e4b2c546-ff47-47e9-b3a1-1e372c96679f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 157,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 7.56
+    }
+  },
+  {
+    "album_id": "fa710a9c-5570-4ba2-9a31-6aefc1949600",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 325,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 14.7
+    }
+  },
+  {
+    "album_id": "d7ff77b0-d1ed-41ef-93a5-b827a797a908",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 262,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.07
+    }
+  },
+  {
+    "album_id": "74684dad-1d94-4053-a93d-79cd3ca71aad",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 131,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 10.31
+    }
+  },
+  {
+    "album_id": "924c490a-9073-46ee-b633-743e99e47bd7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 200,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 2.75
+    }
+  },
+  {
+    "album_id": "d4d062fb-9d1e-408c-8c43-df4abf2c5af6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 59,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 2.71
+    }
+  },
+  {
+    "album_id": "39b00f24-bf8f-49fd-be53-4480bb0fb7c5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 157,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.27
+    }
+  },
+  {
+    "album_id": "9c1c3176-ebe3-490e-b4f5-1d332cefd0f8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 286,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 10.28
+    }
+  },
+  {
+    "album_id": "b63bb485-6f62-4008-b806-6045b6ed828a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 264,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.23
+    }
+  },
+  {
+    "album_id": "9725069b-9109-4117-bacd-2e4b2bddb96a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 155,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 9.53
+    }
+  },
+  {
+    "album_id": "18c9cf61-5e40-4131-81c7-483da618c731",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 161,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.55
+    }
+  },
+  {
+    "album_id": "600180be-b8c0-4b4f-8e71-a971da6b0b74",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 358,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.97
+    }
+  },
+  {
+    "album_id": "80e1e618-675d-4069-8daa-1b96f08f388a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 122,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.27
+    }
+  },
+  {
+    "album_id": "c1b5aa0c-93e6-4955-866f-06a87e41ce06",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 382,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 9.31
+    }
+  },
+  {
+    "album_id": "363234fe-500f-48d0-a4dd-c146e282efdd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 192,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.38
+    }
+  },
+  {
+    "album_id": "28c35605-8fd6-44e3-8d71-3c859ba0469f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 270,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 12.44
+    }
+  },
+  {
+    "album_id": "f1e62898-f860-4f04-a6a0-9712cedb2d9b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 237,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.52
+    }
+  },
+  {
+    "album_id": "aacf0281-3179-4628-8d78-d0b45a713cf8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 141,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 4.09
+    }
+  },
+  {
+    "album_id": "700da20c-69d2-45b2-8805-cae83d9bd36b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 352,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.24
+    }
+  },
+  {
+    "album_id": "a02b24a7-74d5-4bda-988d-cc86b5ec0d0a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 295,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 10.88
+    }
+  },
+  {
+    "album_id": "4882bde2-b43f-485d-9dfb-434f32faa8b7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 223,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.35
+    }
+  },
+  {
+    "album_id": "2a9c9d50-a1a3-45c6-b78b-950350f11877",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 227,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 10.75
+    }
+  },
+  {
+    "album_id": "ed109458-c493-4bb9-9b25-5a25d436f55f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 254,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.8
+    }
+  },
+  {
+    "album_id": "c6531328-b0b4-4f39-bf04-f9354642761a",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 287,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.06
+    }
+  },
+  {
+    "album_id": "c490b266-ba61-4787-9a73-19a9cb2c15f8",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 278,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 9.64
+    }
+  },
+  {
+    "album_id": "55c59954-bd21-4518-8975-2817bd1d7475",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 255,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 7.24
+    }
+  },
+  {
+    "album_id": "88dadb4a-ac2a-4ab4-8314-2014a1559bef",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 320,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.1
+    }
+  },
+  {
+    "album_id": "5fa07dc6-db01-455a-a4bb-75f5b5f06263",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 199,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.71
+    }
+  },
+  {
+    "album_id": "c62d00f2-b9c5-414f-a673-b2bbdc6c5095",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 67,
+      "input_tokens": 2176,
+      "elapsed_time_sec": 1.53
+    }
+  },
+  {
+    "album_id": "335aaa5a-b409-4826-b3ed-69e15ced39e5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 237,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.79
+    }
+  },
+  {
+    "album_id": "c6f6dab7-9096-4893-b79d-e7125f9ba775",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 286,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 19.19
+    }
+  },
+  {
+    "album_id": "47dee3ee-08b3-4cb7-a0b0-69ae8cd66736",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 208,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.24
+    }
+  },
+  {
+    "album_id": "a272b3d3-090f-4539-9694-7a594660fab3",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 221,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.31
+    }
+  },
+  {
+    "album_id": "a2daa21a-5fe4-4253-9719-b773f2901973",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 235,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.03
+    }
+  },
+  {
+    "album_id": "236614dd-3dc3-4fab-9d95-448a48388738",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 262,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.53
+    }
+  },
+  {
+    "album_id": "eb6be744-b7b9-4be1-98e4-885733be6de6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 84,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 6.71
+    }
+  },
+  {
+    "album_id": "b5679793-ae90-4b04-94b4-8abdd60fbc8d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 249,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 15.57
+    }
+  },
+  {
+    "album_id": "078e19fd-ff37-4679-bc1c-04d3321249b6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 213,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.39
+    }
+  },
+  {
+    "album_id": "e0606ad6-7f90-4846-a0f2-52e20aaaf87b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 234,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.12
+    }
+  },
+  {
+    "album_id": "890a0359-6bcc-4b45-b5f5-4e01e904f00b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 248,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 8.87
+    }
+  },
+  {
+    "album_id": "f428cecd-4b14-4ec5-9efd-3af0d0a35e46",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 243,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 5.2
+    }
+  },
+  {
+    "album_id": "3a39831c-dd03-4fc4-8faf-e7a4632fdbbf",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 180,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 7.74
+    }
+  },
+  {
+    "album_id": "53087b31-c203-44da-82d4-b9b7dcb5cb45",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 309,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 8.77
+    }
+  },
+  {
+    "album_id": "d436a5c7-c3b6-47b3-8ff5-7dd01907e3f0",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 262,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.79
+    }
+  },
+  {
+    "album_id": "24d4199b-936c-4e26-a31a-5c4dcefaf4a1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 293,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 7.96
+    }
+  },
+  {
+    "album_id": "b8243759-579d-4539-81a8-51c92ccb2c17",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 218,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 5.63
+    }
+  },
+  {
+    "album_id": "0d113d60-c919-4709-a37b-ef643be4b4a2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 326,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.71
+    }
+  },
+  {
+    "album_id": "414f1d00-4c29-4c8a-92ed-6e8ee01ddd7b",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 255,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.78
+    }
+  },
+  {
+    "album_id": "40b84008-11ab-4e50-b3ae-5b93882469d4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 253,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 2.99
+    }
+  },
+  {
+    "album_id": "088ab75a-2893-48b4-a6f2-bef1452f6cb6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 273,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.21
+    }
+  },
+  {
+    "album_id": "922d28e3-e036-4935-a75d-e731e7ef82e6",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 332,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 3.82
+    }
+  },
+  {
+    "album_id": "19b54332-b33c-426b-affb-705794b541c4",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 219,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 10.24
+    }
+  },
+  {
+    "album_id": "c2fb6931-3135-4a9e-b712-694c36952fdd",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 317,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 11.77
+    }
+  },
+  {
+    "album_id": "1c832961-fbca-4d9a-a634-0edcb78a455c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 58,
+      "input_tokens": 2692,
+      "elapsed_time_sec": 3.53
+    }
+  },
+  {
+    "album_id": "779e5719-badb-457a-bb73-8257a8bd029c",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 182,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.79
+    }
+  },
+  {
+    "album_id": "cd4c2e9b-59f2-47b9-ae2e-567c684e351f",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 205,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.55
+    }
+  },
+  {
+    "album_id": "799ea033-fa48-4ff3-a33b-f92f46818a64",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 301,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 4.83
+    }
+  },
+  {
+    "album_id": "e794864d-7bb9-4b7c-83a1-fd351d4a0152",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 228,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 6.32
+    }
+  },
+  {
+    "album_id": "927b16c7-7d74-4566-8f5c-5ef27764e99d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 185,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.24
+    }
+  },
+  {
+    "album_id": "3d6da5ca-b440-47a8-92e0-2d7ac11b4662",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 233,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 5.22
+    }
+  },
+  {
+    "album_id": "8d8424d3-59de-4efa-a9de-b321e4f0238d",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 77,
+      "input_tokens": 4240,
+      "elapsed_time_sec": 3.95
+    }
+  },
+  {
+    "album_id": "6934901a-0c12-4d9a-a067-045a5c5e9659",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 134,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 8.81
+    }
+  },
+  {
+    "album_id": "1ec2cd8c-f52e-4ecb-8c34-26d080ca45d2",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 169,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.81
+    }
+  },
+  {
+    "album_id": "4f22e7bb-41ff-4cc3-90f2-43265217bd49",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 284,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.0
+    }
+  },
+  {
+    "album_id": "9ba75297-113e-4813-86b5-b92ba657eb21",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 241,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.43
+    }
+  },
+  {
+    "album_id": "81746ad6-f154-4f04-a6ef-770c31098370",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 307,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 5.92
+    }
+  },
+  {
+    "album_id": "7c2fee39-5165-4a75-aec0-ce053e0adad9",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 111,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 4.6
+    }
+  },
+  {
+    "album_id": "fd31cf9d-a486-4c86-8b3a-d8c8fcaa86e7",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 233,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.3
+    }
+  },
+  {
+    "album_id": "0b2a9076-ebe7-40d9-9f0a-9daa938bb144",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 256,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 11.11
+    }
+  },
+  {
+    "album_id": "8f2f60ed-108e-4bba-be12-f448ccd79159",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 384,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 19.09
+    }
+  },
+  {
+    "album_id": "87303c07-d962-4101-8e1c-98f228df5f03",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 191,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 4.49
+    }
+  },
+  {
+    "album_id": "a6c80fdb-9801-4d40-8eb3-5c224eadeddf",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 187,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.8
+    }
+  },
+  {
+    "album_id": "a4cac79c-f03e-46a5-b13e-3a8a1466eb62",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 273,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 3.64
+    }
+  },
+  {
+    "album_id": "8d891db4-34b7-4114-97ec-019f16be67af",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 227,
+      "input_tokens": 2192,
+      "elapsed_time_sec": 7.44
+    }
+  },
+  {
+    "album_id": "0de0d7a1-c93a-40ec-95e6-22a56afa6fd5",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 191,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.99
+    }
+  },
+  {
+    "album_id": "10aca4f7-b776-4148-9e03-1826c5acb370",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 175,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 2.98
+    }
+  },
+  {
+    "album_id": "44a71459-3126-42c8-8237-5b596b838509",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 201,
+      "input_tokens": 1930,
+      "elapsed_time_sec": 4.76
+    }
+  },
+  {
+    "album_id": "93e35e29-4cd9-4c13-8e66-9162d062f4f1",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 228,
+      "input_tokens": 1668,
+      "elapsed_time_sec": 3.93
+    }
+  },
+  {
+    "album_id": "f2f52f2f-9ce1-4083-b93d-068815e1ae50",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 129,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 3.27
+    }
+  },
+  {
+    "album_id": "14889610-ce51-4d91-b17d-125cedb42276",
+    "log": {
+      "model_used": "gemini-2.0-flash",
+      "output_tokens": 143,
+      "input_tokens": 1406,
+      "elapsed_time_sec": 5.46
+    }
+  }
+]
