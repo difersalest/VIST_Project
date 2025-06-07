@@ -129,6 +129,12 @@ The `final_results_dataset` folder contains story generations from running the m
 | English  | 473 stories      | 455     |
 | Spanish  | 127 stories      | 112     |
 
+
+## Subjective Analysis Results (`survey_data`)
+The `survey_data` folder contains all the related data collected for subjective analysis in the report. 
+It contains some google form screenshots of the format used to collect the data for evaluation of 5 stories.
+The Stories used in the form, the text and images related to them.
+And the raw data collected from the surveys plus the R code used to make the statistical analysis with the respective results, which were discussed in the report.
 ---
 
 **Made by Didier in Hsinchu with ❤️**
